@@ -1,0 +1,36 @@
+/* #################### Component STYLE ####################### */
+
+/* app component container style */
+.container {
+  text-align: center;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+  color: aliceblue;
+  margin-top: 30px;
+}
+
+/* button style */
+button {
+  color: #fff;
+  padding: 5px 25px;
+  margin: 10px;
+  font-size: 19px;
+  font-weight: bold;
+  text-transform: uppercase;
+  width: 300px;
+  border-radius: 15px;
+  background-color: #ff00d4;
+}
+.negative {
+  color: #fff;
+
+  /* background-color: #ff00d4; */
+}
+.positive {
+  color: #fff;
+
+  /* background-color: #ff00d4; */
+}
